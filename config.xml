@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>olark</name>
+            <displayName><![CDATA[Olark Chat]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Adds your Olark chat code to your website]]></description>
+            <author><![CDATA[Designhaus42]]></author>
+            <tab><![CDATA[front_office_features]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
